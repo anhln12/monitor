@@ -12,3 +12,5 @@ services:
     # ---------------------------
     volumes:
       - ./uptime-kuma-data:/app/data
+
+# Khi bạn login lần đầu hệ thống sẽ yêu cầu bạn tạo tài khoản
